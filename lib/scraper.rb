@@ -4,7 +4,6 @@ require 'open-uri'
 require_relative './course.rb'
 
 class Scraper
-  
   def get_page
   end
 
@@ -24,8 +23,4 @@ class Scraper
       end
     end
   end
-  
 end
-
-
-
